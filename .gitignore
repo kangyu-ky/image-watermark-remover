@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 运行中间产物(建议保留最终输出图,只忽略中间文件)
+_intermediate/
+*_wm_boxes.jpg
+*_wm.json
+*_rect.png
+*_adaptive.png
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

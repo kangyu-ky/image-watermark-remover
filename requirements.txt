@@ -1,0 +1,6 @@
+# Level 1 / 1.5 本地确定性修复
+opencv-python-headless>=4.5
+numpy>=1.21
+
+# (可选)Level 1.5 FSR 重建引擎需要 opencv-contrib:
+# opencv-contrib-python-headless>=4.5
