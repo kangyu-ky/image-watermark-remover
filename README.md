@@ -42,7 +42,7 @@ Skill 是"目录即技能":只要把整个目录(含 `SKILL.md`)放进技能的*
 
 ```bash
 # 以 WorkBuddy 为例,Windows 上 ~ 即 C:\Users\<用户名>
-git clone https://github.com/<你的用户名>/image-watermark-remover.git \
+git clone https://github.com/wangkang2244/image-watermark-remover.git \
   ~/.workbuddy/skills/image-watermark-remover
 ```
 
